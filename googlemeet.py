@@ -1,4 +1,4 @@
-version = 1
+#1
 import webbrowser
 import time
 #setting chrome come browser 
