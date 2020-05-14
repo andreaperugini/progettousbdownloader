@@ -1,4 +1,4 @@
-#versione1
+vesione = 1
 
 import webbrowser
 import time
